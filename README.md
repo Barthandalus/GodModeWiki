@@ -1,1 +1,1 @@
-# GodMode Wiki
+# Welcome to the GodModeXI Wiki!
