@@ -2,9 +2,11 @@
 
 # Welcome to the wiki!
 
-GodMode is a 99/99 Custom Content FFXI Private server. </br>
-We exist to skip all of the 2004 slog and get straight to a modernized endgame </br>
-Exceed the limits and obtain GodHood. </br>
+GodMode is a 99/99 Custom Content FFXI Private server.
+
+We exist to skip all of the 2004 slog and get straight to a modernized endgame.
+
+Exceed the limits and obtain GodHood.
 
 # Server Information
 
