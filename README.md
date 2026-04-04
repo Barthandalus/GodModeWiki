@@ -2,27 +2,22 @@
 
 # Welcome to the wiki!
 
-GodMode is a 99/99 Custom Content FFXI Private server.
-
-We exist to skip all of the 2004 slog and get straight to a modernized endgame.
+GodMode is a 75/75 Custom Content FFXI Private server.
 
 Exceed the limits and obtain GodHood.
 
 # Server Information
 
-- --server 68.50.60.206
-- 99/99 cap
-- All expansions enabled
+- --server godmode.ddns.net
+- 75/75 cap
+- Treasures of Aht Urgan content level
 - FoV enabled
 - GoV enabled
 - Survival Guide Teleports Enabled
-- RoE enabled
 - Normal Limit Breaks
 - No Subjobs or advanced jobs until your first Rebirth.
 - Normal exp rates
-- 5x Tab Rates from FoV
-- 5x Sparks of Eminence rate.
-- Trusts Enabled but limited to 5 at start.
+- Trusts Enabled but limited to 5 (as you Rebirth the amount simultaneously allowed will reduce)
     - Ferreous Coffin
     - Valaineral
     - Shantotto II
@@ -32,8 +27,9 @@ Exceed the limits and obtain GodHood.
 - Craft rates are 9x
 - All crafts can go max.
 - Fishing is on, but probably doesn't work completely.
-- NMs have a 3x stat and HP modifier.
-- Drop rates are 2x without Treasure Hunter.
+- Era Treasure Hunter style.
+- Lotteries are set to always spawn.
+- Ah bot enabled
 
 # Player Hub
 
