@@ -15,7 +15,7 @@ Exceed the limits and obtain GodHood.
 - GoV enabled
 - Survival Guide Teleports Enabled
 - Limit Breaks are infused with the Main Scenario Quest (Forced)
-- No Subjobs or advanced jobs until your first Rebirth (MSQ)
+- No Subjobs or advanced jobs until you complete the Main Story Quest.
 - Normal exp rates
 - Trusts Enabled but limited to 5 (as you Rebirth the amount simultaneously allowed will reduce by one until there is only 1 allowed.)
     - Ferreous Coffin
@@ -27,9 +27,8 @@ Exceed the limits and obtain GodHood.
 - Craft rates are 9x
 - All crafts can go max.
 - Fishing is on, but probably doesn't work completely.
-- Era Treasure Hunter style.
+- Era Treasure Hunter style. (tag and set, no proc system)
 - Lotteries are set to always spawn.
-- Ah bot enabled
 
 # Player Hub
 
@@ -50,6 +49,9 @@ Players can use the !hub command to be teleported to a utility hub.
     - Set Rank to 10
     - Unlock Homepoint Teleports
     - Unlock Survival Guide Teleports
+- Armoury
+    - Crate that gives you a custom gear shop based on your Job and Level.
+    - Cost increases as you level (adds earlier difficulty that eases as you build gil) 
 
 # Main Story Quest
 
